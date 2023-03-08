@@ -1,0 +1,1 @@
+print("0.Sair \n1. Somar \n2. Subtrair \n3. Multiplicação \n4. Divisão")
