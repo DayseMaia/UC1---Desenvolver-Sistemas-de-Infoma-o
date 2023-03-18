@@ -1,4 +1,4 @@
-('''
+print('''
 Cardápio:
 Especificação Preço unitário
 100 Cachorro quente 1,10
