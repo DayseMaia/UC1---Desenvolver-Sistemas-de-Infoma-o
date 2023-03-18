@@ -1,3 +1,6 @@
+#(Sem estruturas de repetição)
+#Faça um programa que peça 5 itens e suas respectivas quantidades e mostre na tela a lista de itens com a quantidade.
+
 item1 = input("Digite o item 1: ")
 item2 = input("Digite o item 2: ")
 item3 = input("Digite o item 3: ")
