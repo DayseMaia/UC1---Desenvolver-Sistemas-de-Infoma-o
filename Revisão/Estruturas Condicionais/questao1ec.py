@@ -1,7 +1,9 @@
-#1. Escreva um programa que solicite ao usuário um número e imprima se ele é positivo, negativo ou zero.
+'''1. Escreva um programa que solicite ao usuário um número e imprima se ele é positivo, negativo ou zero.'''
 
+#Solicitando ao usuário um número:
 numero = input("Digite um numero: ")
 
+#Verificando se o número é positivo, negativo ou zero e imprimindo resultado:
 if numero:
     numero = float(numero)
     if numero > 0:
@@ -12,3 +14,4 @@ if numero:
         print("É zero.")
 else:
     print("Valor inválido!")
+    
