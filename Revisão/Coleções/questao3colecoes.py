@@ -1,8 +1,9 @@
-#3. Escreva um programa que leia uma lista de números inteiros e remova todos os valores duplicados. 
-#Em seguida, imprima a lista sem os valores duplicados.
+'''3. Escreva um programa que leia uma lista de números inteiros e remova todos os valores duplicados. Em seguida, imprima a lista sem os valores duplicados.'''
 
+#Criando lista:
 lista = [5, 5, 9, 7, 5, 2, 4, 7, 5, 4, 1, 8, 4, 7, 2, 1]
 
+#Funão para remover as duplicatas da lista:
 def remover_duplicatas(lista):
     r = []
     r.append(lista[0])
@@ -14,5 +15,7 @@ def remover_duplicatas(lista):
         if s:
             r.append(lista[i])
     return r
+
+#Imprimindo resultado:
 print("Lista original:", lista)
 print("Lista sem duplicatas:", remover_duplicatas(lista))
