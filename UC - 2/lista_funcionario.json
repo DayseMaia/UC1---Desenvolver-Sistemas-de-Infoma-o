@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Funcionario 1",
+    "idade": "20",
+    "cargo": "Gerente"
+  },
+  {
+    "nome": "Funcion\u00e1rio 2",
+    "idade": "21",
+    "cargo": "Vendedor"
+  },
+  {
+    "nome": "Funcion\u00e1rio 3",
+    "idade": "22",
+    "cargo": "Operador"
+  }
+]
